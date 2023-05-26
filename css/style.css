@@ -1247,7 +1247,7 @@
 		line-height:15px;
 	}
 	.socialicons {
-		display:none; !important
+		display:flex; 
 	}
 	/*-------------------------------------------------------*/
 		/* Profile Section */
